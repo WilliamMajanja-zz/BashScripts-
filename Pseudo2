@@ -1,0 +1,5 @@
+if condition; then 
+   statement 
+else  
+   statement 
+fi
